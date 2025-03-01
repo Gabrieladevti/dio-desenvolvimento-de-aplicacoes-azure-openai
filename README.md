@@ -1,0 +1,1 @@
+# dio-desenvolvimento-de-aplicacoes-azure-openai
